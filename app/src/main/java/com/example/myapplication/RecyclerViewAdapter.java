@@ -35,7 +35,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewViewHo
 
     @Override
     public int getItemCount() {
-        return 10;
+        return fruitList.size();
     }
 
     public void setFruitList(List<Fruits> fruitList) {
