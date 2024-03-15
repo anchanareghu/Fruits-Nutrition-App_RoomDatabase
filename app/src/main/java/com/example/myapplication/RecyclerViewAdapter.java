@@ -13,7 +13,6 @@ import java.util.List;
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewViewHolder> {
     List<Fruits> fruitList;
-
     public RecyclerViewAdapter(List<Fruits> fruits) {
         this.fruitList = fruits;
     }
