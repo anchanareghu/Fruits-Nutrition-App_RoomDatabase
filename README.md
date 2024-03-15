@@ -33,6 +33,3 @@ implementation ("com.squareup.picasso:picasso:2.8")
 ## Screenshots
 <img src="app/src/main/res/drawable/screenshot_01.png" width="200" /> <img src="app/src/main/res/drawable/screenshot_02.png" width="200" /> 
 
-
-"# Fruits-Nutrition-App_RoomDatabase" 
-"# Fruits-Nutrition-App_RoomDatabase" 
