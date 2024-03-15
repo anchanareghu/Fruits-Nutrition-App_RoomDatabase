@@ -32,5 +32,5 @@ implementation ("com.squareup.picasso:picasso:2.8")
 implementation 'com.android.support:recyclerview-v7:28.0.0'
 ```
 ## Screenshots
-<img src="app/src/main/res/drawable/screenshot_03.png" width="200" /> <img src="app/src/main/res/drawable/screenshot_01.png" width="200" /> <img src="app/src/main/res/drawable/screenshot_02.png" width="200" /> 
+<img src="app/src/main/res/drawable/screenshot_01.png" width="200" /> <img src="app/src/main/res/drawable/screenshot_02.png" width="200" /> 
 
